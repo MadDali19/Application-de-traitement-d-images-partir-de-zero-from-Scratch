@@ -1,0 +1,2 @@
+# Application-de-traitement-d-images-partir-de-zero-from-Scratch
+une application de traitement d'images médicales à partir de zéro, il est possible de personnaliser complètement les fonctionnalités en fonction des besoins cliniques, d'assurer la conformité aux réglementations médicales et de garantir la sécurité des données des patients, tout en offrant un outil puissant pour l'amélioration des soins de santé.
